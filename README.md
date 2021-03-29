@@ -1,5 +1,5 @@
-# youtube-player
-Youtube Video Player [JavaScript]
+# video-player
+Video Player [JavaScript]
 
 ### Accepted URL format
 
@@ -7,7 +7,11 @@ Youtube Video Player [JavaScript]
 
 `https://youtu.be/<video id>`
 
+`https://xxxxxxx.xxx/<filename>.<extension>`
+
 Url with parameters will display error
+
+Guidance for Youtube Url
 
 Eg: https://www.youtube.com/watch?v=uSVFoC1pqAI&t=7s will display error because of &t=7s after video id
 
