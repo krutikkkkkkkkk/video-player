@@ -5,7 +5,7 @@ Youtube Video Player [JavaScript]
 
 `https://www.youtube.com/watch?v=<video id>`
 
-`https://youtu.be/<video id`
+`https://youtu.be/<video id>`
 
 Url with parameters will display error
 
